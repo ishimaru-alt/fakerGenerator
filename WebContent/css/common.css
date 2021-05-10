@@ -1,0 +1,136 @@
+@charset "UTF-8";
+
+$input-placeholder-color: #2cd4bc;
+$input-focus-color: #2cd4bc;
+$input-focus-border-color: #2cd4bc;
+$input-arrow: #2cd4bc;
+
+
+.select, .select select{
+width: 300px;
+}
+.label_count{
+  margin-left:150px;
+}
+
+.label_phone{
+  margin-left:100px;
+}
+
+.label_email{
+  margin-left:50px;
+}
+
+.label_birthday{
+  margin-left:100px;
+}
+
+.label_age{
+  margin-left:130px;
+}
+
+.label_address{
+  margin-left:130px;
+}
+
+.table-contents{
+  white-space: nowrap;
+  overflow-x: scroll;
+}
+
+.item_tbl{
+  border-collapse: collapse;
+  border-spacing: 0;
+  width: 100%;
+}
+
+.item_tr{
+  border-bottom: solid 3px #eee;
+  cursor: pointer;
+  text-align: center;
+}
+
+p{
+  border-bottom: solid 1px #eee;
+  text-align: center;
+  padding-top: 5px;
+  padding-bottom: 5px;
+}
+
+.r_side{
+  background-color: #80ff00;
+}
+
+/*donate*/
+.radiobox{
+  margin-bottom: 10px;
+}
+.radiobutton {
+  display: none;
+}
+.radio{
+  background-color: #FBE4EC;
+  padding: 10px 20px;
+  color: #E36688;
+}
+.radiobutton:checked + label {
+  background-color: lightpink;
+}
+
+/*ボタン*/
+.btn{
+  width:150px;
+  height: 50px;
+  margin-bottom: 20px;
+}
+
+.card_title{
+  font-weight: bold;
+  margin-bottom: 20px;
+}
+
+.card_image{
+  margin-bottom: 20px;
+}
+.card_sentence{
+  margin-bottom: 20px;
+}
+
+/* 条件 */
+.div_conditions{
+  margin-top: 50px;
+}
+
+/*Loading*/
+
+
+/*login*/
+.login_item{
+  margin-top: 20px;
+}
+
+/* カードサイズ */
+.card-size{
+  height: 500px;
+}
+
+.mypage_label{
+  width: 100px;
+}
+
+.border_p{
+	border-bottom: none;
+}
+
+.footer{
+  position: sticky;
+  top: 0;
+}
+
+.footerMain{
+  margin-top: 380px;
+}
+
+.footerDatabase{
+  margin-top: 260px;
+}

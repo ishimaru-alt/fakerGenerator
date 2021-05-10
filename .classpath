@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/java8">
+		<attributes>
+			<attribute name="owner.project.facets" value="java"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jst.server.core.container/org.eclipse.jst.server.tomcat.runtimeTarget/Apache Tomcat v8.0">
+		<attributes>
+			<attribute name="owner.project.facets" value="jst.web"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.web.container"/>
+	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.module.container"/>
+	<classpathentry kind="lib" path="C:/Users/nitad/Downloads/joda-time-2.10.8.jar"/>
+	<classpathentry kind="lib" path="C:/Users/nitad/Downloads/json-20200518.jar" sourcepath="C:/Users/nitad/AppData/Local/Temp/.org.sf.feeling.decompiler1605439998761/source/json-20200518-sources-1605446479426.jar"/>
+	<classpathentry kind="lib" path="C:/Users/nitad/Downloads/gson-2.8.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/nitad/Downloads/jackson-databind-2.11.2.jar"/>
+	<classpathentry kind="output" path="build/classes"/>
+</classpath>
