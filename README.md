@@ -21,6 +21,26 @@ JavaでJsonを取り扱うためのライブラリ
 MySQLを扱うためのライブラリ
 * mysql-connector-java-5.1.22-bin.jar
 
-Json（サンプルデータ）を生成するライブラリ  
+サンプルデータを生成するライブラリ  
+* Faker  
 https://github.com/fzaninotto/Faker  
 今回はPHPで作成しました。  
+![2](https://user-images.githubusercontent.com/51936419/117618951-9c9c2400-b1a9-11eb-9a8b-16cbeedc5f1f.jpg)
+
+# Installation
+* Composer のインストール  
+https://weblabo.oscasierra.net/php-composer-windows-install/
+* fakerのインストール  
+`composer require fzaninotto/faker`
+
+# Note
+* 現在Windows10でブラウザはGoogle ChromeとMicrosoft Edgeでのみ動作済み
+* データベースはMySQLのみ対応
+
+# Author
+ishimaru-alt
+
+# License
+Enjoy making cute physics simulations!
+ 
+Thank you!
